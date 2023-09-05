@@ -12,7 +12,7 @@ A combinação de React, Vite e Tailwind CSS torna a criação desta aplicação
 | --- | --- |
 | 🏷️ Tecnologias | React, Vite, Javascript, Tailwind CSS |
 | 🟥 Desafio/Curso | ![React Todo App Tutorial](https://youtu.be/36a__1Vn6B8?si=66SVPGtogNaDynba) |
-| 🔗 Link do Projeto | link |
+| 🔗 Link do Projeto | [ToDo App](https://todo-swart-gamma.vercel.app/) |
 
 ![todoApp](https://github.com/J-Vinicius/todo/assets/80431647/7f644222-2688-4ea9-a00b-0186a6d30d89#vitrinedev)
 
