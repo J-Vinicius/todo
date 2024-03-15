@@ -10,8 +10,6 @@ Esta aplicação front-end é uma lista de tarefas básica criada usando React c
 
 A aplicação permite que os usuários adicionem tarefas à lista, marquem as tarefas como concluídas e as removam da lista. Ela possui uma interface de usuário simples e intuitiva, com botões de ação e uma lista de tarefas que é atualizada em tempo real à medida que o usuário interage com ela.
 
-![./final-project.gif](./final-project.gif)
-
 ## ✔️ Técnicas e tecnologias utilizadas
 
 A combinação de React, Vite e Tailwind CSS torna a criação desta aplicação de lista de tarefas rápida e eficaz, resultando em uma experiência do usuário agradável e funcional.
